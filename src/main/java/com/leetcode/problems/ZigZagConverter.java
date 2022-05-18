@@ -1,5 +1,9 @@
 package com.leetcode.problems;
 
+/**
+ * https://leetcode.com/problems/zigzag-conversion/
+ *
+ */
 public class ZigZagConverter {
     public static void main(String[] args) {
         String s = "PAYPALISHIRING";

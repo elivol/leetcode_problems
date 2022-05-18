@@ -5,6 +5,8 @@ import java.util.Arrays;
 import java.util.Collections;
 
 /**
+ * https://leetcode.com/problems/longest-substring-without-repeating-characters/
+ *
  * Given a string s, find the length of the longest substring without repeating characters.
  */
 public class LongestSubstring {
